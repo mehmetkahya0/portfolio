@@ -1,2 +1,2 @@
 # personal-site (WIP)
-https://personal.mehmet0.repl.co
+mehmetkahya0.github.io/personal-site/
