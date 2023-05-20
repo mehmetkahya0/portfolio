@@ -1,4 +1,7 @@
-
+:root{
+      font-family: 'Roboto', sans-serif;
+  
+}
 .container {
     display: grid;
     justify-content: center;
@@ -8,12 +11,13 @@
 :root{
     margin: 0px;
     left: 0px;
-    background-color: rgb(232, 232, 232);
+    background-color: #18191A;
 }
 p{ text-indent:0px; }
 
 *{
-    font-family: 'Montserrat';
+    font-family: 'Roboto', sans-serif;
+    color: #E4E5EB;
     font-weight: 100 900;
     font-display: swap;
     font-style: normal;
@@ -21,7 +25,8 @@ p{ text-indent:0px; }
 }
 
   html {
-    font-family: "Montserrat";
+    font-family: 'Roboto', sans-serif;
+  
     scroll-behavior: smooth;
   }
 
@@ -85,42 +90,37 @@ p{ text-indent:0px; }
 
 
 .MainText{
-  text-shadow: 2px 2px 5px rgb(176, 177, 177);
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: xx-large;
+  font-size: 42px;
   border-radius: 10px;
-  
   text-align: center;
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
   left: 0;
   margin: 20px;
-
 }
 
 .SecondText{
-    text-shadow: 2px 2px 5px rgb(176, 177, 177);
+    
     line-height:15px;
     font-family: 'Montserrat', sans-serif;
+    font-size: larger;
     border-radius: 10px;
     font-weight: 500;
- 
+
     text-align: center;
-    position: fixed;
+    position: absolute;
     top: 0;
     right: 0;
     left: 0;
-    margin: 80px;
+    margin: 100px;
 }
 
 
 .blob {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
+    position: relative;
     width: 600px;
     height: 550px;
     background: linear-gradient(
@@ -171,3 +171,39 @@ p{ text-indent:0px; }
   }
 
 
+
+
+
+.projects{
+    text-shadow: 2px 2px 5px rgb(176, 177, 177);
+    line-height:15px;
+    font-family: 'Roboto', sans-serif;
+  
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: 200px;
+  
+}
+
+
+.cards1{
+  border: solid ;
+  border-width: 75%;
+  border-radius: 5px;
+}
+
+.cards2{
+  border: solid ;
+  border-radius: 5px;  
+}
+
+.cards3{
+  border: solid ;
+  border-radius: 5px;
+}
