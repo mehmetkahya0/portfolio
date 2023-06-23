@@ -1,4 +1,4 @@
-# My Portfolio Site V2 (Huge Update!)
+# My Portfolio Site V2.1 (Huge Update!)
 
 This is my personal portfolio website that showcases my skills, projects, and interests. It is designed and developed by me using HTML, CSS, and JavaScript.
 
