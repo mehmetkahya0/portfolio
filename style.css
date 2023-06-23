@@ -8,7 +8,7 @@
 :root {
   margin: 0px;
   left: 0px;
-  background-color: rgb(232, 232, 232);
+  background-color: rgb(243, 243, 243);
   padding: 50px;
 }
 
@@ -165,4 +165,66 @@ html {
   display: grid;
   justify-content: center;
   min-height: 100vh;
+}
+
+.project-list {
+  margin-top: 30px;
+  padding: 10px;
+}
+
+.project-list h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.project-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.project-list li {
+  margin-bottom: 20px;
+}
+
+.project-button {
+  display: flex;
+  align-items: center;
+  background-color: rgba(159, 159, 159, 0.2);
+  color: #3a3939;
+  width: 40%;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+  text-align: left;
+  margin-bottom: 10px;
+  backdrop-filter: saturate(180%) blur(10px);
+}
+
+.project-button:hover {
+  background-color: rgba(84, 84, 84, 0.3);
+}
+
+.project-info {
+  flex-grow: 1;
+}
+
+.project-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align:start;
+
+}
+
+.project-description {
+  font-size: 0.9rem;
+}
+
+.project-arrow {
+  margin-left: 10px;
+}
+
+.project-arrow i {
+  font-size: 1.2rem;
 }
