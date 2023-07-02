@@ -4,6 +4,9 @@ This is my personal portfolio website that showcases my skills, projects, and in
 
 ## Try!
 [Live Website](https://portfolio.mehmet0.repl.co) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmehmetkahya0%2Fportfolio&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+<img width="2105" alt="Ekran Resmi 2023-07-02 21 23 57" src="https://github.com/mehmetkahya0/portfolio/assets/84154488/02a69310-1364-4a85-a987-9db2f684bfc3">
+
 ## Features
 
 - Introduction section with a greeting message
