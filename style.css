@@ -71,7 +71,7 @@ section{
   }
   
   .social-media a {
-    margin: 15px;
+    margin: 10px;
     font-size: 2.5rem;
     text-align: center;
     display: inline-block;
@@ -90,12 +90,10 @@ section{
 
 
 .projects{
-
   font-weight: bolder;
   font-size: 2rem;
   text-align: center;
   padding-bottom: 30px;
-
 }
 
 
@@ -107,7 +105,6 @@ section{
     height: 100vh;
     justify-content: center;
     align-items: center;
-
   }
   
   .project-list h3 {
@@ -131,7 +128,7 @@ section{
     background-color: rgba(159, 159, 159, 0.2);
     color: #f4f4f4;
     width: 100%;
-    padding: 15px;
+    padding: 10px;
     border-radius: 8px;
     transition: background-color 0.3s ease;
     text-align: left;
