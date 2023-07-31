@@ -99,7 +99,6 @@ section{
 
 .project-list {
     left: 0;
-    position: absolute; /* ---- */
     margin-top: 10%;
     padding: 10px;
     width: 100%;
